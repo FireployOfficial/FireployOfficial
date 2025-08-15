@@ -30,9 +30,9 @@ Entre sus beneficios se encuentran:
 ---
 
 ## 🛠️ Tecnologías Clave
-- **Backend:** Node.js, Express, MongoDB
-- **Frontend:** React, Vite, TailwindCSS
-- **DevOps:** Docker, GitHub Actions, CI/CD
+- **Backend:** Node.js, Nest.js, SQL
+- **Frontend:** React, Vite, MUI
+- **DevOps:** Docker, CI/CD
 
 ---
 
