@@ -1,16 +1,43 @@
-## Hi there 👋
+# 🚀 Fireploy
 
-<!--
-**FireployOfficial/FireployOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Fireploy** es una plataforma **Open Source** orientada al despliegue y divulgación de proyectos tecnológicos, alineada con el modelo de desarrollo **DevOps**.  
+Su objetivo principal es **facilitar la presentación, automatización y gestión de portafolios tecnológicos** mediante herramientas modernas y procesos estandarizados.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 ¿Por qué Fireploy?
+Fireploy no solo busca **promover la adopción de prácticas modernas de ingeniería de software**, sino que también actúa como un **catalizador para el desarrollo profesional** de sus usuarios.  
+Entre sus beneficios se encuentran:
+
+- 🔄 **Automatización de despliegues** con configuración rápida de instancias y proyectos.
+- 📈 **Mejora de la eficiencia** en los ciclos de vida de los aplicativos web.
+- 🌐 **Divulgación sencilla** de tus proyectos para que estén rápidamente disponibles.
+
+---
+
+## 📂 Repositorios
+
+<p align="center">
+  <a href="https://github.com/JulianQuirozG/fireploy">
+    <img src="https://img.shields.io/badge/Backend-000?style=for-the-badge&logo=github&logoColor=white" alt="Backend Repo"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Malvare22/Fireploy_Frontend">
+    <img src="https://img.shields.io/badge/Frontend-000?style=for-the-badge&logo=github&logoColor=white" alt="Frontend Repo"/>
+  </a>
+</p>
+
+---
+
+## 🛠️ Tecnologías Clave
+- **Backend:** Node.js, Express, MongoDB
+- **Frontend:** React, Vite, TailwindCSS
+- **DevOps:** Docker, GitHub Actions, CI/CD
+
+---
+
+## 📄 Licencia
+Este proyecto está bajo la licencia **MIT**.  
+¡Eres libre de usarlo, modificarlo y compartirlo!
+
+---
