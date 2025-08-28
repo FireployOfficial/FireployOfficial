@@ -25,6 +25,10 @@ Entre sus beneficios se encuentran:
   <a href="https://github.com/Malvare22/Fireploy_Frontend">
     <img src="https://img.shields.io/badge/Frontend-000?style=for-the-badge&logo=github&logoColor=white" alt="Frontend Repo"/>
   </a>
+    &nbsp;&nbsp;
+  <a href="https://github.com/JulianQuirozG/Fireploy_Worker">
+    <img src="https://img.shields.io/badge/Worker-000?style=for-the-badge&logo=github&logoColor=white" alt="Worker Repo"/>
+  </a>
 </p>
 
 ---
